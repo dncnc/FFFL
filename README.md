@@ -1,2 +1,2 @@
-# fffl
+# FFFL
 Fanatics Fantasy Football League
